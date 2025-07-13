@@ -31,8 +31,8 @@ Aplikasi Absensi Online dibangun menggunakan framework PHP Laravel, memberikan s
     4. DB_HOST=host_mysql
     5. DB_PORT=3306 / sesuaikan port mysql anda
     6. DB_DATABASE=absensi_online / sesuaikan nama database anda
-    7. DB_USERNAME=icwr / sesuaikan username database anda
-    8. DB_PASSWORD=icwr / sesuaikan password database anda
+    7. DB_USERNAME=absencoffe81/ sesuaikan username database anda
+    8. DB_PASSWORD=absencoffee81/ sesuaikan password database anda
     9. APP_ENV=local / production / testing (sesuaikan dengan lingkungan anda)
 
 ### Default akun

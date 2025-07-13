@@ -1,7 +1,3 @@
-# Absensi Online V2.0
-
-![1](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/69821cba-46f8-4a86-b7a8-c715f9eba506)
-
 Aplikasi Absensi Online dibangun menggunakan framework PHP Laravel, memberikan solusi modern untuk manajemen absensi karyawan atau siswa secara efisien. Aplikasi ini dirancang dengan antarmuka pengguna yang bersih dan responsif untuk memastikan pengalaman pengguna yang optimal.
 
 ### Apa yang update?
@@ -56,7 +52,7 @@ Aplikasi Absensi Online dibangun menggunakan framework PHP Laravel, memberikan s
 - Datables
 - Chart.js
 - Webcam.js
-- Dashboard admin [Reza-Admin](https://github.com/rezafikkri/Reza-Admin)
+- Dashboard admin 
 
 ### Lain-lain
 
@@ -68,12 +64,10 @@ Aplikasi Absensi Online dibangun menggunakan framework PHP Laravel, memberikan s
 
 ### Gambar lain
 
-![10](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/f18456a8-029d-4312-95a1-98fc11205f8e)
-![9](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/384c3862-f714-4594-add5-978fd8fc1d87)
-![8](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/98954194-3b35-482d-b67c-67273cff9ba7)
-![7](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/20f2b1bf-0421-4320-a782-d0a5f84ba72c)
-![6](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/4c2e9ff1-e1a7-4ea9-91be-124525b3a1f4)
-![5](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/e5b059d2-9311-44fc-b15e-474608948ff9)
-![4](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/ec2f59d6-aaf6-411b-8b12-effe027ca2fd)
-![3](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/11022f7d-fc23-4f60-ba41-4c29dc7f237b)
-![2](https://github.com/ICWR-TEAM/absensi-online/assets/45759837/457eb2e2-8c35-4bfc-83c3-13550669884e)
+<img width="1918" height="928" alt="image" src="https://github.com/user-attachments/assets/e3ba7114-a552-4ba9-9e7b-c5265de43e47" />
+<img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/8191347e-2031-4dc3-ae0f-f2c2996f9419" />
+<img width="1896" height="899" alt="image" src="https://github.com/user-attachments/assets/f8ce79c8-bebe-4009-80ab-349700f83edf" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/5d8dcc2a-5de9-412c-8dda-03e5ac8afd07" />
+
+
+

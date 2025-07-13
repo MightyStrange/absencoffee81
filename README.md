@@ -36,8 +36,8 @@ Aplikasi Absensi Online dibangun menggunakan framework PHP Laravel, memberikan s
     9. APP_ENV=local / production / testing (sesuaikan dengan lingkungan anda)
 
 ### Default akun
-    Email: icwr@icwr.com
-    Password: icwr
+    Email: admin412@gmail.com
+    Password: admin412
 
 ### Hal yang harus diperhatikan
     1. Harus menggunakan https demi kelancaran library webcam
